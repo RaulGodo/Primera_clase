@@ -1,0 +1,48 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #eef7ff;
+}
+
+header{
+    background-color: #4d869c;
+    color: #fff;
+}
+
+nav{
+    background-color: #7ab2b2;
+    color: #fff;
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+    padding: 5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul li:hover{
+    background-color: #4d869c;
+    
+}
+    
+}
+
+p{
+    font-family: "Dancing Script", cursive;
+
+}
+
+footer{
+    background-color: #cde8e5;
+    text-align: center;
+
+}
